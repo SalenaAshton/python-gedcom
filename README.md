@@ -2,9 +2,11 @@
   A forked repository of python-gedcom.
   Purpose: Hands-on application of machine learning for INFO 521 and the possible generation of disseration ideas. The intent is more about machine learning, mathematics, and knowledge representation than it is about family and social history, historical research methodology or human computer interaction.
   
-Currently, this respository uses salena.ged is a gedcom file of approximately 6000 names of ancestors. All of the data are predominantly primary-sourced. Secondary sources, coupled with negative research and process of elimination research, are included and noted as such. I may include some tertiary and circumstantial evidence in the data-- but no conclusions were drawn from such sources. They exist in this data because it either supported primary and/ or secondary, or it lead to the negation of other inferred conclusions by other researchers. 
+Currently, this respository uses `salena.ged` is a gedcom file of approximately 6000 names of ancestors. All of the data are predominantly primary-sourced. Secondary sources, coupled with negative research and process of elimination research, are included and noted as such. I may include some tertiary and circumstantial evidence in the data-- but no conclusions were drawn from such sources. They exist in this data because it either supported primary and/ or secondary, or it lead to the negation of other inferred conclusions by other researchers. 
   
   GEDCOM dialect: RootsMagic 7
+  
+  
 </p>
 
 <p align="center">
